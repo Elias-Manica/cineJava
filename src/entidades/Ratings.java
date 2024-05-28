@@ -6,7 +6,7 @@ package entidades;
 
 /**
  *
- * @author Elias
+ * @author Mateus
  */
 public class Ratings {
     int movieId;
