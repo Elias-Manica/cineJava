@@ -6,7 +6,7 @@ package entidades;
 
 /**
  *
- * @author Elias
+ * @author Valentina
  */
 public class User {
     int id;
